@@ -1,0 +1,19 @@
+# Local research, tooling, builds, and runtime evidence
+/artifacts/
+/runtime/
+**/bin/
+**/obj/
+*.dll
+*.pdb
+*.dsv
+*.dmp
+*.log
+
+# Editor and operating-system files
+/.vs/
+/.idea/
+*.user
+*.suo
+*.tmp
+.DS_Store
+Thumbs.db
